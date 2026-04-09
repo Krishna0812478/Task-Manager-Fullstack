@@ -5,7 +5,7 @@
 A clean, functional, and responsive Task Manager application built as part of a technical assessment. This project demonstrates frontend-backend integration, RESTful API design, and professional UI/UX principles.
 
 #  Project Links
-- **Live Repository**: [https://github.com/krishna-developer/fullstack-assignment](Paste Your Repo Link Here)
+- **Live Repository**: [https://github.com/Krishna0812478/Task-Manager-Fullstack](https://github.com/Krishna0812478/Task-Manager-Fullstack)
 
 ##  Features
 - **View Tasks**: Fetch and display a list of tasks from the backend.
@@ -59,18 +59,8 @@ npm run dev
 - [cite_start]**Styling**: Focused on a clean, modern CSS-in-JS approach to ensure the application is visually professional while remaining lightweight[cite: 32].
 
 ## About the Developer
-Name: Krishna
-
-Role: Frontend Developer Aspirant
-
-GitHub: [Paste Your Profile Link]
+**Name : Krishna Gupta**
+**Role : Frontend Developer Aspirant**
+**Github : https://github.com/Krishna0812478**
 ```
 
----
-
-### Is README mein HR ke liye kya khas hai?
-1.  **Instructions Clear Hain:** Unhe mehnat nahi karni padegi project chalane mein.
-2.  **Professional Terminology:** "RESTful architecture", "State handling", aur "UI/UX principles" jaise words unhe impress karenge.
-3.  **Assumptions Section:** Ye sabse important hai. [cite_start]Isme tumne PDF ki instructions ko quote kiya hai[cite: 3, 31, 33], jo dikhata hai ki tumne requirements ko bohot dhyan se padha hai.
-
-Bhai, ye README daalne ke baad tera assignment ek dum "Industry Standard" ka lagega. Ab bas zip banao aur bhej do! All the best! 🚀
