@@ -53,7 +53,7 @@ npm run dev
 ---
 
 ##  Assumptions & Trade-offs
-* To adhere to the 1-2 hour timeframe suggested in the assignment requirements, the following decisions were made:
+To adhere to the 1-2 hour timeframe suggested in the assignment requirements, the following decisions were made:
 
 * **In-Memory Storage:** Used a simple array to store tasks instead of a persistent database to prioritize API structure and functional correctness within the time limit.
 
