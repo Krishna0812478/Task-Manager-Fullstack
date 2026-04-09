@@ -53,17 +53,17 @@ npm run dev
 ---
 
 ##  Assumptions & Trade-offs
-To adhere to the 1-2 hour timeframe suggested in the assignment requirements, the following decisions were made:
+* To adhere to the 1-2 hour timeframe suggested in the assignment requirements, the following decisions were made:
 
-In-Memory Storage: Used a simple array to store tasks instead of a persistent database to prioritize API structure and functional correctness within the time limit.
+* **In-Memory Storage:** Used a simple array to store tasks instead of a persistent database to prioritize API structure and functional correctness within the time limit.
 
-State Management: Used React's useState and useEffect for efficient state handling without the overhead of Redux for a small feature set.
+* **State Management:** Used React's useState and useEffect for efficient state handling without the overhead of Redux for a small feature set.
 
-Styling: Focused on a clean, modern CSS-in-JS approach to ensure the application is visually professional while remaining lightweight.
+* **Styling:** Focused on a clean, modern CSS-in-JS approach to ensure the application is visually professional while remaining lightweight.
 
 ## About the Developer
-**Name : Krishna Gupta**
-**Role : Frontend Developer Aspirant**
-**Github : https://github.com/Krishna0812478**
+* **Name:** Krishna Gupta
+* **Role:** Frontend Developer Aspirant
+* **GitHub:** [https://github.com/Krishna0812478](https://github.com/Krishna0812478)
 ```
 
